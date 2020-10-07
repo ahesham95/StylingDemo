@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIButton</key>
+	<dict>
+		<key>MainButton</key>
+		<dict>
+			<key>borderWidth</key>
+			<string>5</string>
+			<key>fontName</key>
+			<string>Didot</string>
+			<key>borderColor</key>
+			<string>00FF00</string>
+			<key>BGColor</key>
+			<string>000000</string>
+			<key>textColor</key>
+			<string>ffffff</string>
+			<key>cornerRadius</key>
+			<string>10</string>
+			<key>shadow</key>
+			<dict>
+				<key>shadowColor</key>
+				<string>000000</string>
+				<key>shadowOffset</key>
+				<string></string>
+				<key>shadowOpacity</key>
+				<string>1.0</string>
+				<key>shadowRadius</key>
+				<string>3.0</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
